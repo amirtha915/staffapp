@@ -30,3 +30,6 @@ Used the below Hooks
 1. useState (to maintain the state with in the component)
 2. useEffect (to execute the piece of code before the component is rendered)
 3. axios is used to make backend API calls
+
+# command to start application: npm start
+# Base URL to access application: http://localhost:3000
