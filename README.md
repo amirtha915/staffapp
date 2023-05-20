@@ -40,4 +40,4 @@ In this app, BackEnd is created using the Java, SpringBoot, Microservices
 
 # command to start application: npm start
 # Base URL to access FrontEnd application: http://localhost:3000
-# Base URL to access API's: http://localhost:8989
+# Base URL to access Backend API's: http://localhost:8989
